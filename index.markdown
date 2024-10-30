@@ -4,7 +4,8 @@
 
 layout: home
 ---
-# Welcome to AgrAInno!![AgrAInno Logo](assets\images\logo-removebg-preview.png)
+# Welcome to AgrAInno!
+![AgrAInno Logo](assets\images\logo-removebg-preview.png)
 AI-driven smart weed control expert
 
 ### 🌟 Core Advantages
