@@ -23,7 +23,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   We are committed to weed detection and precision weed control.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://agrainno.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 defaults:
   - scope:
@@ -38,6 +38,8 @@ github_username:
 theme: minima
 plugins:
   - jekyll-feed
+
+destination: docs
 
 # Exclude from processing.
 # The following items will not be processed, by default.
