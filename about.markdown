@@ -4,15 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About AgrAinno
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+At AgrAinno, we are dedicated to innovating agriculture for a sustainable future. Our mission is to bring cutting-edge technology to the agricultural industry, helping farmers increase productivity and sustainability through innovative solutions.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Our Team
 
+- **Kang Yu** - CEO & Founder
+- **Chenghao Lu** - COO & Co-Founder
+- **Yihao Wang** - CTO
+- **Finn Kott** - CMO
 
-[jekyll-organization]: https://github.com/jekyll
+## Our Vision
+
+Our vision is to revolutionize agriculture by integrating AI and IoT technologies, making farming more efficient, productive, and environmentally friendly.
+
+## Contact Us
+
+Have questions or want to learn more? [Contact us](mailto:chenghao.lu@tum.de).

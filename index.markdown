@@ -1,12 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 # Welcome to AgrAInno!
 
-![AgrAInno Logo](assets\images\logo-removebg-preview.png)
+![AgrAInno Logo](/assets/images/logo.png)
 
 AI-driven smart weed control expert
 
@@ -32,7 +29,6 @@ AI-driven smart weed control expert
 - Get professional weed control advice
 - Record and track weed control results
 
-
 **Precision weed control service**
 - Professional team on-site guidance
 - Customized weed control solutions
@@ -40,7 +36,11 @@ AI-driven smart weed control expert
 
 ### 🚀 Get started
 
-[Download APP](link) | [Apply for trial](link) | [Contact us](link)
+<div class="links">
+    <a href="link">Download APP</a> | 
+    <a href="link">Apply for trial</a> | 
+    <a href="{{ '/contact' | relative_url }}">Contact us</a>
+</div>
+
 
 ---
-### 📰 Latest Updates
